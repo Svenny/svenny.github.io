@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+In search of new ideas. Stay curious.
+
+Recent posts:

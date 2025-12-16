@@ -43,6 +43,9 @@ minima:
     - title: "pavel-asyutchenko"
       icon: linkedin
       url: "https://www.linkedin.com/in/pavel-asyutchenko"
+    - title: "svennyvx"
+      icon: discord
+      url: "https://discord.com"
 
 plugins:
   - jekyll-feed

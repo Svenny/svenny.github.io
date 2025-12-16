@@ -1,0 +1,14 @@
+---
+---
+
+$lm-brand-color: #717171;
+
+$dm-brand-color: #aaa;
+$dm-heading-color: #ddd;
+$dm-text-color: darken($dm-heading-color, 10%);
+
+$content-width: 850px;
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
